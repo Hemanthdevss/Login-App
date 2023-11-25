@@ -1,0 +1,14 @@
+.bg_container {
+    background : linear-gradient(to bottom,#2b2c49,#b5b9ff);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.textStyle {
+    color: #ffffff;
+    font-family: "Roboto";
+}
